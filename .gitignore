@@ -1,0 +1,7 @@
+*.pyc
+defines/config.cfg
+
+venv/
+.idea/
+
+logs/
